@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681853762 source:c:\users\rodri\ex prova aeds\calculaareaperímetrocírculo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

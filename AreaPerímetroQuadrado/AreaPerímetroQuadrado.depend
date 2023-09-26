@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681937515 source:c:\users\rodri\ex prova aeds\areaperímetroquadrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
