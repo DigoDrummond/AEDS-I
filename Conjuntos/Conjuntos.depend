@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684267738 source:c:\users\rodri\ex prova aeds\conjuntos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

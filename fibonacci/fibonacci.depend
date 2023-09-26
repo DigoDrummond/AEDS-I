@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682017413 source:c:\users\rodri\ex prova aeds\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

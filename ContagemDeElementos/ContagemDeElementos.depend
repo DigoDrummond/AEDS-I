@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683842635 source:c:\users\rodri\ex prova aeds\contagemdeelementos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

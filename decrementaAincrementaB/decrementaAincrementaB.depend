@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681852936 source:c:\users\rodri\ex prova aeds\decrementaaincrementab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

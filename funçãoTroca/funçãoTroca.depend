@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681843471 source:c:\users\rodri\ex prova aeds\funçãotroca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
