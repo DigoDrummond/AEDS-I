@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680893794 source:c:\users\rodri\ex prova aeds\numero em intervalo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

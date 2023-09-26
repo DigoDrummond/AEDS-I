@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683983712 source:c:\users\rodri\ex prova aeds\invertervetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

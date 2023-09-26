@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684362527 source:c:\users\rodri\ex prova aeds\maioreselementosdaslinhasemenoreselementosdascolunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

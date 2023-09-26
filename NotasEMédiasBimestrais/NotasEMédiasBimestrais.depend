@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684757772 source:c:\users\rodri\ex prova aeds\notasemédiasbimestrais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684949287 source:c:\users\rodri\ex prova aeds\lervetorsemrepetiçãodeelementos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+

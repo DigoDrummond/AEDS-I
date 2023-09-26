@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684669808 source:c:\users\rodri\ex prova aeds\matrizidentidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
